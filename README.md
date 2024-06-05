@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-![Header Image](https://mowtxmvmuuowvrndklhg.supabase.co/storage/v1/object/public/static_images/123912470_10213699898051355_5581531585078742238_n.jpg)
 
 ## About Me 🌟
 
@@ -48,4 +47,7 @@ I occasionally write articles on [Substack]. Check out my latest posts at [My Bl
 
 I have skills with Moba field, before becoming a full-time software engineer, I reached ~ 8k with solo MMR in Dota 2 at SEA server.
 
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungthaihieu93-dev&show_icons=true&locale=en&layout=compact" alt="saymenghour" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=trungthaihieu93-dev&show_icons=true&locale=en" alt="saymenghour" height="180" />
+</p>
