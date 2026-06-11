@@ -25,7 +25,7 @@
 ### Senior Software Engineer · Go · TypeScript · Python · Agentic AI
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=1B4D3E&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%7C+6%2B+years;Lean%2C+scalable+services+in+Go%2C+TypeScript+%26+Python;Insurtech+%7C+Fintech+(RWA%2FTokenization)+%7C+IoT;Agentic+AI+%7C+MCP+servers+%7C+custom+Claude+skills" alt="What I do" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGam1IwMUUZDw/profile-displayphoto-scale_100_100/B56Zlc7eawJ8Ac-/0/1758200724183?e=1782950400&v=beta&t=FhIYvuUwzDrp1fbg2UV_t-UWy0MCyvjj2PwV8msk8O0" alt="What I do" />
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 ## 👨‍💻 About Me
 
-Senior software engineer with **6+ years** shipping lean, production-grade systems end-to-end across **insurtech**, **fintech (RWA / tokenization)**, and **IoT**. My core stack is **Go**, **TypeScript** (Node.js + React), and **Python** — used to design gRPC/REST services, model data, and take products from MVP → v1 under real constraints.
+Senior software engineer with **8+ years** shipping lean, production-grade systems end-to-end across **insurtech**, **fintech (RWA / tokenization)**, and **IoT**. My core stack is **Go**, **TypeScript** (Node.js + React), and **Python** — used to design gRPC/REST services, model data, and take products from MVP → v1 under real constraints.
 
 I'm currently a Senior Software Engineer at **CoverGo**, working on the **Distribution platform** — a multi-tenant system that lets insurers configure, manage, and deliver products to end clients. I've owned modules end-to-end (Party Management, Quote/Policy lifecycle, Channel Management), set platform fundamentals (monorepo, tenant isolation, CI/CD, cloud-agnostic deploys), designed customer-journey orchestration on **Temporal**, and built an **Underwriting AI Agent** with LangChain / LangGraph.
 
