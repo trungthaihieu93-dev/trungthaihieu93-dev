@@ -25,9 +25,9 @@
 ### Senior Software Engineer · Go · TypeScript · Python · Agentic AI
 
 <div align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="PERSONAL_SITE_URL"><img src="https://img.shields.io/badge/Website-1B4D3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/trung-thai-807b24186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:trungthaihieu93@gmail.com"><img src="https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tony-jun-thai.com"><img src="https://img.shields.io/badge/Website-1B4D3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </div>
 
 ---
