@@ -3,14 +3,14 @@
   Trung (Tony) Thai — GitHub Profile README
   ----------------------------------------------------------------------
   BEFORE PUBLISHING, replace these placeholders (find & replace):
-    • YOUR_GITHUB_USERNAME   → your GitHub handle (stats widgets, pins)
+    • trungthaihieu93-dev   → your GitHub handle (stats widgets, pins)
     • LINKEDIN_URL           → e.g. https://www.linkedin.com/in/your-handle
     • your.email@example.com → your contact email
     • PERSONAL_SITE_URL      → your "Meet Tony!" site / linktree
     • REPO_ONE / REPO_TWO / REPO_THREE / REPO_FOUR → repos to feature
   SECTIONS marked "TEMPLATE" (Certifications, Writing) are scaffolds —
   fill them with real entries or delete the section.
-  To use this file: drop it in a repo named exactly YOUR_GITHUB_USERNAME.
+  To use this file: drop it in a repo named exactly trungthaihieu93-dev.
   Renders best on GitHub (raw HTML + badges).
 ======================================================================
 -->
@@ -152,20 +152,20 @@ Based in **Vietnam** 🇻🇳 and plugged into the SEA tech ecosystem. Always up
 
 ## 📌 Featured Projects
 
-<!-- Replace YOUR_GITHUB_USERNAME and the four repo names. Delete cards you don't need. -->
+<!-- Replace trungthaihieu93-dev and the four repo names. Delete cards you don't need. -->
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_ONE&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_ONE" />
+  <a href="https://github.com/trungthaihieu93-dev/REPO_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungthaihieu93-dev&repo=REPO_ONE&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_ONE" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_TWO&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_TWO" />
+  <a href="https://github.com/trungthaihieu93-dev/REPO_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungthaihieu93-dev&repo=REPO_TWO&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_TWO" />
   </a>
   <br/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_THREE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_THREE&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_THREE" />
+  <a href="https://github.com/trungthaihieu93-dev/REPO_THREE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungthaihieu93-dev&repo=REPO_THREE&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_THREE" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_FOUR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_FOUR&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_FOUR" />
+  <a href="https://github.com/trungthaihieu93-dev/REPO_FOUR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungthaihieu93-dev&repo=REPO_FOUR&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="REPO_FOUR" />
   </a>
 </div>
 
@@ -186,16 +186,16 @@ Based in **Vietnam** 🇻🇳 and plugged into the SEA tech ecosystem. Always up
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=FDFBF4&ring=B08D57&fire=B08D57&currStreakNum=1B4D3E&currStreakLabel=1B4D3E&sideNums=1B4D3E&sideLabels=4A4A4A&dates=8A8A8A&stroke=E6DFCE" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trungthaihieu93-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1B4D3E&icon_color=B08D57&text_color=4A4A4A&bg_color=FDFBF4" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=trungthaihieu93-dev&hide_border=true&background=FDFBF4&ring=B08D57&fire=B08D57&currStreakNum=1B4D3E&currStreakLabel=1B4D3E&sideNums=1B4D3E&sideLabels=4A4A4A&dates=8A8A8A&stroke=E6DFCE" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&hide_border=true&title_color=1B4D3E&text_color=4A4A4A&bg_color=FDFBF4" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungthaihieu93-dev&layout=compact&langs_count=10&hide_border=true&title_color=1B4D3E&text_color=4A4A4A&bg_color=FDFBF4" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=trungthaihieu93-dev&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -204,7 +204,7 @@ Based in **Vietnam** 🇻🇳 and plugged into the SEA tech ecosystem. Always up
 
 💬 _Open to collaborations, architecture discussions, and interesting problems in distributed systems, insurtech, and agentic AI — feel free to reach out._
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1B4D3E&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=trungthaihieu93-dev&style=for-the-badge&color=1B4D3E&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
