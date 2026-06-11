@@ -17,16 +17,12 @@
 
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4D3E,100:B08D57&height=200&section=header&text=Trung%20(Tony)%20Thai&fontColor=FDFBF4&fontSize=46&fontAlignY=38&fontAlign=50&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20Agentic%20AI&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Trung (Tony) Thai" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGam1IwMUUZDw/profile-displayphoto-scale_100_100/B56Zlc7eawJ8Ac-/0/1758200724183?e=1782950400&v=beta&t=FhIYvuUwzDrp1fbg2UV_t-UWy0MCyvjj2PwV8msk8O0" alt="Trung (Tony) Thai" />
 </div>
 
 # Hi there 👋 I'm **Tony**
 
 ### Senior Software Engineer · Go · TypeScript · Python · Agentic AI
-
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGam1IwMUUZDw/profile-displayphoto-scale_100_100/B56Zlc7eawJ8Ac-/0/1758200724183?e=1782950400&v=beta&t=FhIYvuUwzDrp1fbg2UV_t-UWy0MCyvjj2PwV8msk8O0" alt="What I do" />
-</div>
 
 <div align="center">
   <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
